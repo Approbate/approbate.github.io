@@ -1,0 +1,29 @@
+body {
+  transition: background-color 0.5s ease;
+  color: black;
+  background-color: white;
+}
+
+body.dark-mode {
+  color: white;
+  background-color: black;
+}
+
+header {
+  text-align: center;
+}
+
+.animate {
+  animation: color-change 2s infinite;
+}
+
+@keyframes color-change {
+  0% { color: blue; }
+  50% { color: red; }
+  100% { color: blue; }
+}
+
+button:hover {
+  cursor: pointer;
+  opacity: 0.7;
+}
