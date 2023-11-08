@@ -2,6 +2,6 @@
 # ---------------------------
 User-agent: *
 Disallow:
-Sitemap: https://blog.approbate.xyz/sitemap.xml
+Sitemap: https://approbate.xyz/sitemap.xml
 # ---------------------------
 # END YOAST BLOCK
