@@ -1,7 +1,7 @@
-# START YOAST BLOCK
+# START APPROBATE BLOCK
 # ---------------------------
 User-agent: *
 Disallow:
 Sitemap: https://approbate.xyz/sitemap.xml
 # ---------------------------
-# END YOAST BLOCK
+# END APPROBATE BLOCK
